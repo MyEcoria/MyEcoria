@@ -1,0 +1,4 @@
+- 👋 alut, je suis @MyEcoria
+- 👀 Je m'intéresse à l'informatique, le jardinage, la cuisine et le someil 😱
+- 🌱 J'apprends actuellement dans une formidable école (je suis en 2de)
+- 📫 Pour me contacter ... <contact@myecoria.com> 
