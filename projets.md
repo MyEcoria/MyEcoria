@@ -7,6 +7,7 @@
 - [X] DogeNano Snow
 - [X] DogeNano Repeater
 - [X] DogeNano Rpc Proxy
+- [X] Amélioration du Wallet Dogenano
 - [ ] DogeNano Natricon
 - [ ] Faucet (Nano, Paw, DogeNano...)
 - [ ] DogeNano Wallet Mobile Server
