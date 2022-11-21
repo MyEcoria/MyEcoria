@@ -17,3 +17,4 @@
 - [ ] PawSwap
 - [ ] Tornado Nano
 - [ ] DogeNano Speed
+- [ ] DogeNano Memo
