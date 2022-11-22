@@ -9,6 +9,7 @@
 - [X] DogeNano Rpc Proxy
 - [X] Amélioration du Wallet Dogenano
 - [X] DuinoCoin Miner to PAW
+- [ ] DogeNano Ledger
 - [ ] DogeNano Natricon
 - [ ] Faucet (Nano, Paw, DogeNano...)
 - [ ] DogeNano Wallet Mobile Server
