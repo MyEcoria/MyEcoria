@@ -19,3 +19,4 @@
 - [ ] Tornado Nano
 - [ ] DogeNano Speed
 - [ ] DogeNano Memo
+- [ ] Multy Nano Wallet
