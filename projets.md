@@ -21,3 +21,4 @@
 - [ ] DogeNano Memo
 - [ ] Multy Nano Wallet
 - [ ] Discord Bot Swap
+- [ ] Multy Swap Tracker
