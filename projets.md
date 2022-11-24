@@ -20,3 +20,4 @@
 - [ ] DogeNano Speed
 - [ ] DogeNano Memo
 - [ ] Multy Nano Wallet
+- [ ] Discord Bot Swap
