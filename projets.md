@@ -8,8 +8,8 @@
 - [X] Public DogeNano Repeater || ws://server.myecoria.com:7089
 - [X] DogeNano Rpc Proxy || [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
 - [X] Amélioration du Wallet Dogenano || [My Dault](https://dault.myecoria.com)
-- [X] DuinoCoin Miner to PAW [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
-- [X] DogeNano Ledger
+- [X] DuinoCoin Miner to PAW || [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
+- [X] DogeNano Ledger || [Here](https://dledger.myecoria.com)
 - [ ] DogeNano Natricon
 - [ ] Faucet (Nano, Paw, DogeNano...)
 - [ ] DogeNano Wallet Mobile Server
