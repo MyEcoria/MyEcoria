@@ -1,14 +1,14 @@
 # Liste de mes projets 🥳
 - [X] Paw Node
-- [X] Paw Trible
-- [X] Paw Reward Script
-- [X] Paw Donation Browser Extension
+- [X] Paw Trible || The French Pig 🐷
+- [X] Paw Reward Script || [Here](https://github.com/MyEcoria/paw-node/blob/main/tribes-tools/rewardsInstall/install.py)
+- [X] Paw Donation Browser Extension || [Here](https://github.com/MyEcoria/paw-donate)
 - [X] DogeNano Node
-- [X] DogeNano Snow
-- [X] DogeNano Repeater
-- [X] DogeNano Rpc Proxy
-- [X] Amélioration du Wallet Dogenano
-- [X] DuinoCoin Miner to PAW
+- [X] DogeNano Snow || [Here](https://github.com/MyEcoria/Snow)
+- [X] Public DogeNano Repeater || ws://server.myecoria.com:7089
+- [X] DogeNano Rpc Proxy || [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
+- [X] Amélioration du Wallet Dogenano || [My Dault](https://dault.myecoria.com)
+- [X] DuinoCoin Miner to PAW [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
 - [X] DogeNano Ledger
 - [ ] DogeNano Natricon
 - [ ] Faucet (Nano, Paw, DogeNano...)
