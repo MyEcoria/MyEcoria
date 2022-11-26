@@ -22,3 +22,5 @@
 - [ ] Multy Nano Wallet
 - [ ] Discord Bot Swap
 - [ ] Multy Swap Tracker
+- [ ] Nano ATM
+- [ ] Crypto Label
