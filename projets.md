@@ -15,7 +15,6 @@
 - [ ] DogeNano Wallet Mobile Server
 - [ ] DogeNano Mobile Wallet
 - [ ] Tezos Baker with Nano and other fork
-- [ ] PawSwap
 - [ ] Tornado Nano
 - [ ] DogeNano Speed
 - [ ] DogeNano Memo
