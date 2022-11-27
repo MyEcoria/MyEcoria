@@ -5,7 +5,8 @@
 - [X] Paw Donation Browser Extension || [Here](https://github.com/MyEcoria/paw-donate)
 - [X] DogeNano Node
 - [X] DogeNano Snow || [Here](https://github.com/MyEcoria/Snow)
-- [X] Public DogeNano Repeater || ws://server.myecoria.com:7089
+- [X] Public DogeNano Repeater || ws://51.91.103.54:7089
+- [X] Public DogeNano RPC || https://dogerpc.myecoria.com
 - [X] DogeNano Rpc Proxy || [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
 - [X] Amélioration du Wallet Dogenano || [My Dault](https://dault.myecoria.com)
 - [X] DuinoCoin Miner to PAW || [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
