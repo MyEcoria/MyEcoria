@@ -3,7 +3,7 @@
 - [X] Paw Trible || The French Pig 🐷
 - [X] Paw Reward Script || [Here](https://github.com/MyEcoria/paw-node/blob/main/tribes-tools/rewardsInstall/install.py)
 - [X] Paw Donation Browser Extension || [Here](https://github.com/MyEcoria/paw-donate)
-- [X] DogeNano Node
+- [X] DogeNano Node || [Her](https://explorer.dogenano.io/account/xdg_3trcizdrj8uck5f46onn3tomac7wgx5rfey7a1y5dp9q3dqyn6ccup688atx)
 - [X] DogeNano Snow || [Here](https://github.com/MyEcoria/Snow)
 - [X] Public DogeNano Repeater || ws://51.91.103.54:7089
 - [X] Public DogeNano RPC || https://dogerpc.myecoria.com
