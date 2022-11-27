@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @MyEcoria
 - 👀 Je m'intéresse à l'informatique, le jardinage, la cuisine et le someil 😱
-- 🌱 J'apprends actuellement dans une formidable école (je suis en 2de)
+- 🌱 J'apprends actuellement dans une formidable école (je suis en 1er)
 - 📫 Pour me contacter ... <contact@myecoria.com> 
 - 🚢 Mon ancien serveur: Raspberry pi 3b+ avec nginx
 - ⚔️ Mon serveur actuel: Synology ds220+ avec 2TO
