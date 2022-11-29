@@ -11,7 +11,7 @@
 - [X] Amélioration du Wallet Dogenano || [My Dault](https://dault.myecoria.com)
 - [X] DuinoCoin Miner to PAW || [Here](https://github.com/MyEcoria/dogenano-rpc-proxy-balancer)
 - [X] DogeNano Ledger || [Here](https://dledger.myecoria.com)
-- [X] DogeNano Natricon (DogIcons)|| [Here](https://github.com/MyEcoria/PilouIcons)
+- [X] DogeNano Natricon (DogIcons) || [Here](https://github.com/MyEcoria/PilouIcons)
 - [ ] Faucet (Nano, Paw, DogeNano...)
 - [ ] DogeNano Wallet Mobile Server
 - [ ] DogeNano Mobile Wallet
