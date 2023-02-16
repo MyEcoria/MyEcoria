@@ -1,0 +1,156 @@
+.link {
+        color: #27ae60;
+        text-decoration: none;
+        background-image: linear-gradient(90deg, #2ecc71, #1abc9c, #2ecc71);
+        background-repeat: no-repeat;
+        background-position: bottom left;
+        background-size: 0% 2px;
+        transition: background-size 400ms ease-in-out;
+        transition: 0.5s;
+    }
+
+    .link:hover {
+        color: #1abc9c;
+        background-size: 100% 2px;
+    }
+
+    .social {
+        color: #27ae60;
+    }
+
+    #nick_container {
+        height: 1.3em;
+        overflow: hidden;
+        display: inline-block;
+    }
+
+    .rotate,
+    .social {
+        transition: all 0.2s ease-in-out 0s;
+    }
+
+    .rotate:hover {
+        cursor: default;
+        transform: rotate(360deg);
+        transition: all 0.5s ease-in-out 0s;
+
+    }
+
+    #nick {
+        float: right;
+        display: inline-block;
+        animation: popin 2s ease-in-out infinite;
+    }
+
+    .imgshadow {
+        -webkit-filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.6));
+        -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=2, OffY=2, Color='#444')";
+        filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=2, OffY=2, Color='#444')";
+    }
+
+    .lightshadow {
+        -webkit-filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.3));
+        -ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=0, Color='#222')";
+        filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=0, Color='#222')";
+    }
+
+    p {
+        text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (prefers-color-scheme: light) {
+        html {
+            background-color: #FBF7F4;
+        }
+
+        .heading {
+            color: #1e272e;
+        }
+
+        #projektysmall:after {
+            content: "";
+            position: absolute;
+            z-index: 1;
+            bottom: 0;
+            left: 0;
+            pointer-events: none;
+            background-image: linear-gradient(to bottom, #FBF7F400, #FBF7F4EE);
+            width: 100%;
+            height: 14em;
+        }
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .heading {
+            color: #fbfbfb;
+        }
+
+        #projektysmall:after {
+            content: "";
+            position: absolute;
+            z-index: 1;
+            bottom: 0;
+            left: 0;
+            pointer-events: none;
+            background-image: linear-gradient(to bottom, #17181C00, #17181CEE);
+            width: 100%;
+            height: 14em;
+        }
+    }
+
+    @media only screen and (min-width: 768px) {
+        html {
+            zoom: 1.1;
+        }
+
+        .avatar {
+            margin-left: auto !important;
+        }
+    }
+
+    .heading {
+        margin-bottom: 0.5em !important;
+    }
+
+    #projektysmall {
+        max-height: 876px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .removeBar:after {
+        content: none !important;
+    }
+
+    @keyframes popin {
+
+        0%,
+        30% {
+            transform: translate(0px, 0px);
+
+        }
+
+        40%,
+        90% {
+            transform: translate(0px, -1.5em);
+        }
+    }
+
+    @-moz-keyframes rotate {
+        100% {
+            -moz-transform: rotate(360deg);
+        }
+    }
+
+    @-webkit-keyframes rotate {
+        100% {
+            -webkit-transform: rotate(360deg);
+        }
+    }
+
+    @keyframes rotate {
+        100% {
+            -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+    }

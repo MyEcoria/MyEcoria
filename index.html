@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>MyEcoria Portfolio</title>
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://kit.fontawesome.com/6c28b7c580.css" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/6c28b7c580.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+
+<body>
+    <section class="section">
+        <div class="container">
+            <div class="columns is-centered is-vcentered">
+                <div class="column has-text-right">
+                    <div class="columns is-multiline is-centered">
+                        <div class="column is-full">
+                            <figure class="image is-128x128 avatar">
+                                <img class="is-rounded imgshadow" src="https://avatars.githubusercontent.com/u/103332030?v=4">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="columns is-multiline is-centered">
+                        <div class="column is-full">
+                            <div>
+                                <p class="heading mb-0"><b>Hey</b>, je m'appelle</p>
+                                <p class="title"><b>Pierric</b> <span class="has-text-weight-light">Buchez</span></p>
+                                <p class="subtitle">
+                                    <div id="nick_container">
+                                        aussi connu sous le nom de <b>MyEcoria</b>
+                                    </div>
+                                </p>
+                                <div class="content">
+                                    <a href="https://github.com/myecoria" class="social lightshadow">
+                                        <i class="fa-brands fa-github"></i>
+                                    </a>
+                                    &nbsp;
+                                    <a href="https://www.instagram.com/myecoria/" class="social lightshadow">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                    &nbsp;
+                                    <a href="https://twitter.com/myecoria" class="social lightshadow">
+                                        <i class="fab fa-twitter"></i>
+                                    </a>
+                                    &nbsp;
+                                    <a href="mailto:contact@myecoria.com" class="social lightshadow">
+                                        <i class="fa fa-at"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="columns mb-0 mt-3 is-gapless">
+                <div class="column is-2"></div>
+                <div class="column has-text-right-desktop mr-5">
+                    <div class="columns is-multiline is-centered">
+                        <div class="column is-full">
+                            <div>
+                                <p class="heading mb-0 is-size-6">A propos de <b>MOI</b></p>
+                                <div class="content">
+                                    Je m'appelle Pierric Buchez et j'ai <b id="age"></b> ans. Je suis passionné d'informatique et je passe une grande partie de mon temps à explorer les dernières technologies et tendances du secteur. Bien que je ne sois pas un expert dans le domaine, j'adore bidouiller et expérimenter avec différents logiciels et matériels..
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column is-full">
+                            <p class="heading mb-0 is-size-6">Mes projets:<br>
+                                <small class="subtitle is-size-7 has-text-danger has-text-weight-normal">*liste incomplète, en cours</small>
+                            </p>
+                            <div class="columns is-multiline">
+                                <div class="column is-full" id="projektysmall">
+                                    <div class="columns is-multiline is-mobile">
+                                        <div class='column is-half'>
+                                            <div class="card">
+                                                <div class="card-image">
+                                                    <figure class="image">
+                                                        <img src="https://cdn.pixabay.com/photo/2018/04/07/08/28/notepad-3297994_960_720.jpg" loading="lazy">
+                                                    </figure>
+                                                </div>
+                                                <div class="card-content has-text-left">
+                                                    <div class="content">
+                                                        <a href="https://blog.myecoria.com">MyEcoria Blog</a>
+                                                        <p class="heading mt-3 has-text-grey">
+                                                            Février 2023
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                <button onclick="showProjects()" id="projektybutton" class="button is-success is-fullwidth mt-3 mb-5">
+                                    Montrer plus&nbsp;<i class="fa fa-arrow-down"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="columns is-multiline is-centered">
+                        <div class="column is-full">
+                            <div>
+                                <p class="heading mb-0 is-size-6"><b>LANGAGES DE PROGRAMMATION</b> JE CONNAIS</p>
+                                <div class="columns is-multiline">
+                                    <div class="column is-full">
+                                        <div class="columns is-mobile">
+                                            <div class="column">
+                                                <progress class="progress is-success mt-1" value="20" max="100">20%</progress>
+                                            </div>
+                                            <div class="column">
+                                                <span>Python</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column is-full">
+                                        <div class="columns is-mobile">
+                                            <div class="column">
+                                                <progress class="progress is-success mt-1" value="15" max="100">15%</progress>
+                                            </div>
+                                            <div class="column">
+                                                <span>HTML</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column is-full">
+                                        <div class="columns is-mobile">
+                                            <div class="column">
+                                                <progress class="progress is-success mt-1" value="35" max="100">35%</progress>
+                                            </div>
+                                            <div class="column">
+                                                <span>JavaScript</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column is-full">
+                                        <div class="columns is-mobile">
+                                            <div class="column">
+                                                <progress class="progress is-success mt-1" value="10" max="100">10%</progress>
+                                            </div>
+                                            <div class="column">
+                                                <span>C, C++</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column is-full">
+                                        <div class="columns is-mobile">
+                                            <div class="column">
+                                                <progress class="progress is-success mt-1" value="25" max="100">25%</progress>
+                                            </div>
+                                            <div class="column">
+                                                <span>CSS</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column is-fuul">
+                                        <div class="columns is-mobile">
+                                            <div class="column">
+                                                <progress class="progress is-success mt-1" value="41" max="100">41%</progress>
+                                            </div>
+                                            <div class="column">
+                                                <span>Node.js</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="column is-full">
+                                        <div class="columns is-mobile">
+                                            <div class="column">
+                                                <progress class="progress is-success mt-1" value="55" max="100">55%</progress>
+                                            </div>
+                                            <div class="column">
+                                                <span>PHP</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="column is-full">
+                            <div>
+                                <p class="heading mb-0 is-size-6">QUELQUES PROJETS AUXQUELS J'AI CONTRIBUE</p>
+                                <div class="content">
+                                    <ul>
+                                        <li>
+                                            <a class="link" href="https://nanswap.com/mining/nano">
+                                                NanSwap Mining
+                                            </a> - Une pool de mining qui récompense en Nano/Banano/Dogenano/Ananos
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="column is-2"></div>
+            </div>
+            <div class="columns is-gapless mt-5">
+                <div class="column has-text-right-desktop">
+                    <div class="columns is-multiline is-centered">
+                        <div class="column is-full mr-5">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+<script>const day = 24 * 60 * 60 * 1000;
+const age = document.getElementById("age");
+
+round_to = function(precision, value) {
+    value = parseFloat(value);
+    power_of_ten = 10 ** precision;
+    return ((value * power_of_ten) / power_of_ten).toFixed(precision);
+}
+
+day_diff = function(d1, d2) {
+    /* totally not borrowed from kristians page */
+    return (d2 - Date.parse(d1)) / day;
+}
+
+function update_age() {
+    age.innerHTML = round_to(8, day_diff('Jul 12, 2007 12:00:00', new Date()) / 365);
+}
+
+function showProjects() {
+    document.getElementById("projektysmall").style.maxHeight = "100%";
+    document.getElementById("projektysmall").classList.add("removeBar");
+    document.getElementById("projektybutton").remove();
+}
+
+update_age();
+setInterval(function() {
+    update_age();
+}, 100);
+
+
+</script>
+
+</html>
