@@ -28,3 +28,5 @@ It is important to note that this program does not guarantee absolute anonymity 
 - We charge a commission between 0.1% and 3% per transaction/cycles (To anonymize transactions)
 - Transactions will all be sent at the same time every day at 1 p.m.
 
+## BETA
+We are currently in beta, this means that bugs and problems may appear, moreover it means that the anonymization of transactions is not perfect and will improve over time. By using Tornano, even with small sums, you allow the development of this one
