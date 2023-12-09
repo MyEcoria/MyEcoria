@@ -1,5 +1,5 @@
 - 👋 Salut, je suis @MyEcoria
-- 👀 Je m'intéresse à l'informatique, le jardinage, la cuisine et le someil 😱
+- 👀 Je m'intéresse à l'informatique
 - 🌱 J'apprends actuellement dans une formidable école (je suis en 1er)
 - 📫 Pour me contacter ... <contact@myecoria.com> 
 - 🚢 Mon ancien serveur: Raspberry pi 3b+ avec nginx
