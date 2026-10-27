@@ -37,14 +37,3 @@
 ### Blockchain & Crypto
 
 `Full‑Stack Blockchain` • `Cryptomonnaies`
-
----
-
-## 📊 Stats
-
-[![MyEcoria profile views](https://u8views.com/api/v1/github/profiles/103332030/views/day-week-month-total-count.svg)](https://u8views.com/github/MyEcoria)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyEcoria&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MyEcoria&show_icons=true&theme=radical" />
-</p>
